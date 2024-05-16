@@ -1,0 +1,1 @@
+- url : https://www.lainyzine.com/ko/article/how-to-change-the-github-account-used-by-the-development-environment/#github-%EA%B3%84%EC%A0%95%EC%9D%84-%EC%83%88%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%97%88%EC%9D%84-%EA%B2%BD%EC%9A%B0
